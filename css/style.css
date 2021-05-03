@@ -8,6 +8,8 @@ h1 { /* Name */
 h2 { /* Sub Section Titles */
     font-size: larger;
     color: #05386B;
+    padding-left: 1%;
+    margin: 0%;
 }
 
 h3 { /* The three word description under my name */
@@ -18,6 +20,17 @@ h3 { /* The three word description under my name */
 }
 
 p { /* Text */
+    color: #05386B;
+    padding-left: 1%;
+    margin: 0%;
+}
+
+body {
+    background-color:#8EE4AF;
+    margin: 0;
+}
+
+li {
     color: #05386B;
 }
 
@@ -38,6 +51,7 @@ footer { /* Footer section. Includes contact info. */
     background-color: #8EE4AF;
     text-align: left;
 }
+
 
 #project_section { /* Project bar */
     background-color: #8EE4AF;
@@ -65,7 +79,8 @@ footer { /* Footer section. Includes contact info. */
     
 }
 
-body {
-    background-color:#8EE4AF;
-    margin: 0;
+.section_link {
+    text-align: right;
+    padding-right: 1%;
 }
+
