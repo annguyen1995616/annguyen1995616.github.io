@@ -1,41 +1,52 @@
 h1 { /* Name */
     color: #05386B;
-    font-size: x-large;
+    font-size: xxx-large;
+    margin: 0%;
+    text-align: center;
 }
 
 h2 { /* Sub Section Titles */
     font-size: larger;
+    color: #05386B;
 }
 
 h3 { /* The three word description under my name */
+    color: #05386B;
     font-size: large;
+    margin: 0%;
+    text-align: center;
 }
 
 p { /* Text */
-
+    color: #05386B;
 }
 
 header { /* Header Section. Includes name and the short description */
     background-color:#5CDB95;
-    padding-bottom: 1%;
+    padding: 1%;
 }
 
 footer { /* Footer section. Includes contact info. */
     background-color:#5CDB95;
     color:#05386B;
     font-size: small;
+    text-align:right;
+    padding: 1%;
 }
 
 #resume_section { /* Resume bar */
-
+    background-color: #8EE4AF;
+    text-align: left;
 }
 
 #project_section { /* Project bar */
-    
+    background-color: #8EE4AF;
+    text-align: left;
 }
 
 #photography_section { /* Photography bar */
-    
+    background-color: #8EE4AF;
+    text-align: left;
 }
 
 #contact_info { /* Resume's contact info */
@@ -52,4 +63,9 @@ footer { /* Footer section. Includes contact info. */
 
 #volunteer_section { /* Resume's volunteer section */
     
+}
+
+body {
+    background-color:#8EE4AF;
+    margin: 0;
 }
