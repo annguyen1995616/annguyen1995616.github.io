@@ -1,14 +1,14 @@
 h1 { /* Name */
-    color:rgb(0, 0, 0);
+    color: #05386B;
     font-size: x-large;
 }
 
 h2 { /* Sub Section Titles */
-
+    font-size: larger;
 }
 
 h3 { /* The three word description under my name */
-
+    font-size: large;
 }
 
 p { /* Text */
@@ -16,21 +16,40 @@ p { /* Text */
 }
 
 header { /* Header Section. Includes name and the short description */
-
+    background-color:#5CDB95;
+    padding-bottom: 1%;
 }
 
 footer { /* Footer section. Includes contact info. */
+    background-color:#5CDB95;
+    color:#05386B;
+    font-size: small;
+}
+
+#resume_section { /* Resume bar */
 
 }
 
-#resume_section { /*  */
-
-}
-
-#project_section { /*  */
+#project_section { /* Project bar */
     
 }
 
-#photography_section { /*  */
+#photography_section { /* Photography bar */
+    
+}
+
+#contact_info { /* Resume's contact info */
+    
+}
+
+#education_section { /* Resume's education section */
+    
+}
+
+#experience_section { /* Resume's experience section */
+    
+}
+
+#volunteer_section { /* Resume's volunteer section */
     
 }
