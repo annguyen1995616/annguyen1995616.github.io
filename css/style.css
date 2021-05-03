@@ -49,6 +49,10 @@ footer { /* Footer section. Includes contact info. */
     padding: 1%;
 }
 
+img {
+    padding: 1%;
+}
+
 #resume_section { /* Resume bar */
     background-color: #8EE4AF;
     text-align: left;
