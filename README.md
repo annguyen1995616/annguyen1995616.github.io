@@ -7,3 +7,5 @@ Everyone is free to copy and use code and other media resources they find on thi
 ## Contributors
 
 *Christina Le* created the art used for the Favicon and Apple Touch Icon set. She can be found on twitter [@LoremToastum](https://twitter.com/LoremToastum)
+
+*Christian Robertson* is the designer of the free Google Font "Roboto." You can find him at [Christian Robertson](http://christianrobertson.com)
