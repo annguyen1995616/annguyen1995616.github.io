@@ -54,6 +54,7 @@ img {
 }
 
 #resume_section { /* Resume bar */
+    padding-top: 1%;
     background-color: #8EE4AF;
     text-align: left;
 }
