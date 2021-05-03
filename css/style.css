@@ -64,7 +64,9 @@ footer { /* Footer section. Includes contact info. */
 }
 
 #contact_info { /* Resume's contact info */
-    
+    background-color: #EDF5E1;
+    padding: 1%;
+    text-align: right;
 }
 
 #education_section { /* Resume's education section */
